@@ -98,6 +98,11 @@ Comparing two arrays to determine if they are equal or not (the equals method).
 Filling an array to place a specific value at each index (the fill method).
 Sorting an array into ascending order. This can be done either sequentially, using the sort method, or concurrently, using the parallelSort method introduced in Java SE 8. Parallel sorting of large arrays on multiprocessor systems is faster than sequential array sorting.
 ```
-
+### Imports  
+To get all imports
+```
+java.util.*.
+```
+__Why can I use things like String or Integer without having to do imports?”__. This is because the most commonly used Classes reside in the java.lang package, and this package is essentially auto-imported for us for convenience. 
                             
 

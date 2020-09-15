@@ -1,7 +1,12 @@
 # JavaReadingMaterial
 
 ## Table of Contents
-1. [Java Basics](javabasics.md)  
+1. [Java Basics and Imports](javabasics.md)  
 2. [Java Operators](operators.md)  
 3. [Loops](loops.md)  
-[Reference](https://docs.oracle.com/javase/8/docs/api/index.html)  
+  
+
+
+## References  
+[Javase API](https://docs.oracle.com/javase/8/docs/api/index.html)  
+[Imports](https://howtoprogramwithjava.com/java-imports/)   
