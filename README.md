@@ -4,6 +4,7 @@
 1. [Java Basics and Imports](javabasics.md)  
 2. [Java Operators](operators.md)  
 3. [Loops](loops.md)  
+4. [Primitives vs Objects](primVsobjs.md)
   
 
 
