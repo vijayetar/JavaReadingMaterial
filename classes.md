@@ -21,3 +21,11 @@ Zero or more modifiers, such as public or private.
 The field's type.
 The field's name.
 ```
+### Constructors
+``` public ClassName(){}
+```
+Once we create our own constructor,we no longer can just do new ClassName().
+
+We can use public or private variables in the constructors
+
+## __Static__ allows us to access the method without creating an instance of the class.
