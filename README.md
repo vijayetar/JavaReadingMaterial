@@ -8,6 +8,7 @@
 5. [HashMap, HashSet, ArraySet](arrays_hashmap.md)
 6. [File I/O](maps.md)  
 7. [Classes, Objects](classes.md)  
+8. [SOLID principles](solid.md)  
   
 
 
