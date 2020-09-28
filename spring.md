@@ -5,6 +5,10 @@
 
 [Spring Initializer](https://start.spring.io/)  
 
+[How to setup a Spring App](
+  https://docs.google.com/document/d/1rDc9jsC-GbHeViYmikzJfZiyKY4JRleRFyG7NzTnCZY/edit?usp=sharing
+)
+
 ## Getting started with Spring 
 ### Create a web controller  
 The __@GetMapping__ annotation ensures that HTTP GET requests to /greeting are mapped to the greeting() method.  
