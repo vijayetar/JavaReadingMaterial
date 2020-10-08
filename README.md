@@ -12,7 +12,10 @@
 9. [Inheritance and Interfaces](interface.md)  
 10. [HTTP](http.md) 
 11. [Spring- setup](spring.md)   
-12. [Spring RequestMapping](spring_request.md)
+12. [Spring RequestMapping](spring_request.md)  
+13. [Relationships with Spring data REST](Rest_relations.md)  
+14. [WebSockets with Spring](websockets.md)
+15. [Database Setup](database.md)
 
 
 ## References  
