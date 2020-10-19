@@ -31,31 +31,7 @@ A __service__ is a general-purpose entry point for keeping an app running in the
 
 A service is implemented as a subclass of Service. 
 
+__Broadcast receivers__ are a component that enables the system to deliver events to the app outside of a regular user flow, allowing the app to respond to system-wide broadcast announcements
 
-
-
-Android SDK Tools
-
-compile code with data and resource files into an APK (Android package).
-archive file with .apk suffix
-one apk file contains all the contents of an android app
-the apk file is used by Android-powered devices to install the app
-Android Security Features
-
-OS is a multi-user Linux system, each app is a different user.
-By default, the system assigns each app a unique Linux user ID and sets permissions for all the files in an app so that only the user ID assigned can access them.
-Each app has its own virtual machine (VM) so the app’s code runs in isolation from other apps.
-App Components
-
-activities
-entry point for interacting with the user
-services
-general purpose entry-point for keeping an app running in the background for multiple reasons
-broadcast receivers
-a component that enables the system to deliver events to the app outside of a regular user flow, allowing the app to respond to system-wide broadcast announcements
-content providers
-manages a shared set of app data that you can store in:
-the file system
-a SQLite database
-on the web
-on any persistent storage location accessible by the app
+__Content providers__ manages a shared set of app data that you can store in:
+the file system a SQLite database on the web on any persistent storage location accessible by the app
