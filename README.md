@@ -16,7 +16,8 @@
 13. [Relationships with Spring data REST](Rest_relations.md)  
 14. [WebSockets with Spring](websockets.md)
 15. [Database Setup](database.md)
-16. [Android Fundamentals, SharedPreferences and Stacks](androidFundamentals.md)
+16. [Android Fundamentals, SharedPreferences and Stacks](androidFundamentals.md)  
+17. [Android Recycler View](androidRecycler.md)
 
 
 ## References  
